@@ -32,7 +32,7 @@ My current work focuses on building and comparing predictive models, designing o
 
 ## 🚀 Featured Projects
 
-### 🏠 House Price Prediction — Ames, Iowa
+### 🏠 House Price Prediction — Ames, Iowa ([https://github.com](https://github.com/Ve-RAM/Proyecto-Estad-stica-Multivariada-Avanzada)).
 
 Comparison of regularized linear models, tree-based models, boosting methods, and a neural network for house price prediction.
 
