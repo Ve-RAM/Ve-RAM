@@ -32,7 +32,7 @@ My current work focuses on building and comparing predictive models, designing o
 
 ## 🚀 Featured Projects
 
-### [🏠 House Price Prediction — Ames, Iowa](https://github.com/Ve-RAM/Proyecto-Estad-stica-Multivariada-Avanzada)).
+### [🏠 House Price Prediction — Ames, Iowa](https://github.com/Ve-RAM/Proyecto-Estad-stica-Multivariada-Avanzada).
 
 Comparison of regularized linear models, tree-based models, boosting methods, and a neural network for house price prediction.
 
@@ -42,7 +42,7 @@ Includes data preprocessing, cross-validation, hyperparameter tuning, and experi
 
 ---
 
-### 🏢 Hybrid Workplace Assignment Optimization
+### [🏢 Hybrid Workplace Assignment Optimization](https://github.com/Ve-RAM/Hybrid-Workplace-Assignment-Optimization)
 
 A mathematical optimization approach for assigning employees to workplaces under hybrid work conditions.
 
@@ -52,7 +52,7 @@ The project explores the use of **metaheuristics** to obtain efficient assignmen
 
 ---
 
-### 🎬 Multi-Objective Movie Recommendation
+### [🎬 Multi-Objective Movie Recommendation](https://github.com/Ve-RAM/Hybrid-Model-for-Movie-Recommendation)
 
 A movie recommendation system formulated as a **multi-objective optimization problem**, balancing novelty, familiarity, and variety.
 
@@ -62,7 +62,7 @@ The problem is solved using **genetic algorithms**.
 
 ---
 
-### 📊 Class Rebalancing with Mixed KDE
+### [📊 Class Rebalancing with Mixed KDE](https://github.com/Ve-RAM/Class-Rebalancing-KDE)
 
 An exploratory study comparing five strategies for handling class imbalance in a cardiovascular dataset.
 
@@ -78,7 +78,7 @@ That background continues to influence how I approach technical problems: with c
 
 ## 📫 Connect with me
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](www.linkedin.com/in/santiago-vera-ramirez) · [Email](mailto:sverar1@eafit.edu.co)
 
 ---
 
